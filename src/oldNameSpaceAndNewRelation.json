@@ -1,0 +1,43 @@
+{
+    "all": [
+        {
+            "Yeepay\\Yop\\Sdk\\": "Fy\\Yeepay\\Yop\\Sdk\\"
+        },
+        {
+            "GuzzleHttp\\": "Fy\\GuzzleHttp\\"
+        },
+        {
+            "GuzzleHttp\\Promise\\": "Fy\\GuzzleHttp\\Promise\\"
+        },
+        {
+            "GuzzleHttp\\Psr7\\": "Fy\\GuzzleHttp\\Psr7\\"
+        },
+        {
+            "Monolog\\": "Fy\\Monolog\\"
+        },
+        {
+            "Psr\\Http\\Message\\": "Fy\\Psr\\Http\\Message\\"
+        },
+        {
+            "Psr\\Log\\": "Fy\\Psr\\Log\\"
+        }
+    ],
+    "old": [
+        "Yeepay\\Yop\\Sdk",
+        "GuzzleHttp",
+        "GuzzleHttp\\Promise",
+        "GuzzleHttp\\Psr7",
+        "Monolog",
+        "Psr\\Http\\Message",
+        "Psr\\Log"
+    ],
+    "new": [
+        "Fy\\Yeepay\\Yop\\Sdk",
+        "Fy\\GuzzleHttp",
+        "Fy\\GuzzleHttp\\Promise",
+        "Fy\\GuzzleHttp\\Psr7",
+        "Fy\\Monolog",
+        "Fy\\Psr\\Http\\Message",
+        "Fy\\Psr\\Log"
+    ]
+}
