@@ -1,10 +1,10 @@
 {
-    "name": "供应商名称/包名称",
-    "description": "描述这个包",
+    "name": "fy97/yop_php_sdk_pkg",
+    "description": "易宝支付的php_sdk库的二次打包",
     "keywords": [
-        "关键词1",
-        "关键词2",
-        "关键词3"
+        "易宝支付",
+        "yop php",
+        "yop_php_sdk"
     ],
     "authors": [
         {
